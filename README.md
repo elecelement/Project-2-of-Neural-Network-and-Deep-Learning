@@ -17,8 +17,8 @@ data/                         # CIFAR-10 数据文件
 network_for_CIFAR10/         # 完成任务一的代码
 │   get_data.py              # 数据加载与预处理
 │   model_odd.py             # 自定义 CNN 模型
-│   train.py                 # 模型训练脚本
-│   train_with_VGG.py       # 基于 VGG 的训练版本
+│   train.py                 # 模型训练脚本（准确率92.4%）
+│   train_with_another.py   # 另一个训练模型（准确率较低）
 │   visualization.py        # 分类结果和特征可视化
 │   cifar_net.pth           # 训练好的模型参数
 │   存档                     # 其余模型的py程序 
