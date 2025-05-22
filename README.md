@@ -70,4 +70,3 @@ python visualize_landscape.py
 
 - 数据集：使用 PyTorch 自动下载的 CIFAR-10 数据（无需手动下载）
 - 模型参数（已训练）：`network_for_CIFAR10/存档/cifar_net.pth`  
-  如需上传，可使用 Google Drive 或其他网盘并在报告中附上链接。
